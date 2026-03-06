@@ -127,5 +127,5 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 ---
 
 <div align="center">
-  Made with 💟 by >Prashant A.
+  Made with 💟 by Prashant A.
 </div>
